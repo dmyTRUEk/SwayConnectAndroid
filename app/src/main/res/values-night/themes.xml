@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SwayConnectAndroid" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#f0a</item>
+        <!-- Customize your theme here. -->
+
+        <item name="android:textColor">@color/text</item>
+    </style>
+</resources>
